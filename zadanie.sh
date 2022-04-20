@@ -103,3 +103,5 @@ git rebase -i two
 git rebase HEAD two
 git checkout c2
 git rebase HEAD three
+
+#dodaję ten komentarz aby zobaczyć różnicę w repo
